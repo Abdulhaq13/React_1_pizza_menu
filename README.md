@@ -14,22 +14,6 @@ CSS
 Project Structure
 src/ components/ App.js index.js data.js styles.css
 
-Getting Started
-Clone the repository:
-
-git clone https://github.com/Abdulhaq13/React_projects.git
-
-Navigate to the project folder:
-
-cd React_projects/1.pizza-menu
-
-Install dependencies:
-
-npm install
-
-Run the project:
-
-npm start
 
 The application will run on http://localhost:3000
 
